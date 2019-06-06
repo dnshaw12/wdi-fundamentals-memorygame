@@ -73,6 +73,7 @@ button {
 	height: 50px;
 	font-size: 18px;
 	font-family: Raleway;
+	visibility: hidden;
 }
 .copyright {
 	float: left;
